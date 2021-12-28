@@ -7,7 +7,9 @@ import WireFrame from "./WireFrame/WireFrame";
 function App() {
 	return (
 		<div className='App'>
-			<WireFrame></WireFrame>
+			{/* <WireFrame></WireFrame> */}
+
+			<Charts></Charts>
 		</div>
 	);
 }
