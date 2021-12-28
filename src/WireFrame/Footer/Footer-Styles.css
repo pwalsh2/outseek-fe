@@ -1,0 +1,16 @@
+
+footer {
+    width:100vw;
+    height:5rem;
+    background-color:var(--outseek-primary);
+}
+
+
+
+.footer-container{
+    width:85vw;
+    height:5rem;
+    margin:auto;
+    border: 1px solid red;
+    
+}
